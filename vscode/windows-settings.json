@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.iconTheme": "material-icon-theme",
+    "markdown-preview-github-styles.colorTheme": "light",
+    "files.exclude": {
+        "**/.git": false
+    },
+    "terminal.integrated.fontFamily": "MesloLGM NF",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "python.defaultInterpreterPath": "C:\\Users\\roberto\\.virtualenvs\\myvenv310\\Scripts\\python.exe",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "typescript.suggest.paths": false,
+    "javascript.suggest.paths": false,
+    "yaml.schemas": {
+        "kubernetes": "*.yaml*"
+    },
+    "security.workspace.trust.emptyWindow": false,
+    "redhat.telemetry.enabled": true
+}
